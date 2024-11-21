@@ -27,7 +27,7 @@ html {
   .navbarContainer {
     width: 100%;
     background-color: $primary-color;
-    padding: 20px;
+    padding: 15px;
     position: fixed; /* Ensure it stays fixed during scrolling */
     top: 0;
     left: 0;
@@ -247,7 +247,7 @@ text-decoration: none;
     margin: 0 auto;
     .homepageContent {
       // background-color: #e8ffe4;
-
+padding: 20px;
       height: 83vh;
       display: flex;
       justify-content: space-between;
